@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Newsletters</string>
+    <string name="emails">Enter your email</string>
+    <string name="subs">Subscription</string>
+    <string name="ConfirmBtn">Confirmer</string>
+
+</resources>
